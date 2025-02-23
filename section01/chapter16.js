@@ -13,7 +13,7 @@ const animal = {
   // -> 값이 함수인 프로퍼티를 말함
   
   const person = {
-    name: "이정환",
+    name: "장다희",
     // 메서드 선언
     sayHi() {
       console.log("안녕!");
